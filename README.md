@@ -1,20 +1,16 @@
-# equrban
-E-QUrban Management System for Surau Al-Muhajirin
+10 NEW CHANGES
 
-A Booking and Tracking System taht available both on web-based and mobile-based platform.
-
-
-
-
-10 CHANGES
-User
+Web-Based
+User Module
 1. Register (detect same IC Number)
-2.  Update Booking Information
-3. Online Payment FPX
-4. Prayer Times based on Location
+2. Update Booking Information
+3. Online Payment FPX 
 
-Admin
+Admin Module
 5. Create Kariah Account
 6. Edit Kariah Account
 7. Generate Report
 8. 
+
+Mobile-Based
+1.Prayer Times based on Location
