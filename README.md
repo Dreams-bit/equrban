@@ -7,10 +7,9 @@ User Module
 3. Online Payment FPX 
 
 Admin Module
-5. Create Kariah Account
-6. Edit Kariah Account
-7. Generate Report
-8. 
+4. Create Kariah Account
+5. Edit Kariah Account
+6. Generate Report
 
 Mobile-Based
 1.Prayer Times based on Location
