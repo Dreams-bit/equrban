@@ -1,14 +1,16 @@
-10 NEW CHANGES
+# 10 NEW CHANGES
 
-Web-Based
+## Web-Based
 
-User Module
+###### User Module
 1. Registration
-IC number should be checked, if exist, user cannot use the IC number.
+
+<sub>IC number should be checked, if exist, user cannot use the IC number.</sub>
 
 2. Update Booking Information
-User able to update their booking information.
-Allow user to update peserta_name.
+<sub>User able to update their booking information.</sub>
+<sub>Allow user to update peserta_name.</sub>
+
 
 3. Online Payment FPX 
 Currently on wire transfer payment method.
@@ -26,6 +28,6 @@ Allow admin to generate report.
 List of Kariah, List of Booking information, List of Pengedar.
 Able download all those document in pdf and excel format.
 
-Mobile-Based
+## Mobile-Based
 1.Prayer Times based on Location
 Change prayer times API, prayer times should be based on user current location.
